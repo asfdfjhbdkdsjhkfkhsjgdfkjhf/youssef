@@ -6,7 +6,7 @@ const moment = require("moment");
 
 
 
-const devs = ["497482507273502720]
+const devs = ["497482507273502720"]
 
 const adminprefix = "#";
 client.on('message', message => {
